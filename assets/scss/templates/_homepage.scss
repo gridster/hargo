@@ -65,7 +65,7 @@
   &.five {
     li {
       i {
-        color: #f9aa1f;
+        color: #FE083B;
       }
     }
   }
@@ -74,7 +74,7 @@
     li {
       &:not(:last-child) {
         i {
-          color: #f9aa1f;
+          color: #FE083B;
         }
       }
     }
@@ -83,7 +83,7 @@
   &.three {
     li {
       i {
-        color: #f9aa1f;
+        color: #FE083B;
       }
 
       &:last-child {
@@ -104,13 +104,13 @@
     li {
       &:first-child {
         i {
-          color: #f9aa1f;
+          color: #FE083B;
         }
       }
 
       &:nth-child(2) {
         i {
-          color: #f9aa1f;
+          color: #FE083B;
         }
       }
     }
@@ -120,7 +120,7 @@
     li {
       &:first-child {
         i {
-          color: #f9aa1f;
+          color: #FE083B;
         }
       }
     }
